@@ -1,0 +1,10 @@
+ฟาร์มลี่ เนเบอร์
+Farmly Neighbour
+
+Abstract
+
+This project aims to develop an e-commerce website for buying and selling agricultural products, with a focus on enabling farmers to directly promote and sell their goods to consumers through an online platform. The developed system reduces the complexity of traditional selling methods, increases marketing opportunities, and provides convenience for both buyers and sellers. The website is designed with essential core functionalities for a complete e-commerce system, such as user registration, product management, order processing, payment, product reviews, and store management.
+
+From a technical perspective, the website is built using the Next.js framework with TypeScript and connects to a PostgreSQL database via the Prisma ORM. It supports OAuth-based login methods such as Google and Facebook. The system is deployed using Amazon Web Services (AWS), including EC2, RDS, and S3, ensuring 24/7 accessibility. This project demonstrates the potential of applying web application technology to support and modernize Thailand's agricultural sector by transitioning it into an efficient and sustainable online trading system.
+
+Keywords: e-commerce, framework, web development, farmers, agricultural products
